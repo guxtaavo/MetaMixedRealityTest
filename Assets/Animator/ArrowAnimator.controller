@@ -31,7 +31,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: arrow|arrowAction (1)
-  m_Speed: 1
+  m_Speed: 1.1
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -43,7 +43,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -4945303004701639155, guid: e227ab728a35f0744ad51ecf0dae0353, type: 3}
+  m_Motion: {fileID: -4945303004701639155, guid: 57b6603688111b64ba81f98f8a985eed, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
